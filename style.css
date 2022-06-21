@@ -1,0 +1,522 @@
+body{
+    margin: 0%;
+    font-style:"mslondonw04";
+}
+p{
+    margin: 0px;
+}
+.one{
+    width: 100%px;
+    height: 157px;
+}
+
+.one1{
+    width: 100%px;
+    height: 30px;
+    background-color: black;
+    
+}
+.one1-1{
+    font-size: 16px;
+    color: white;
+    text-align: center;
+    padding-top: 5px;
+}
+.one2{
+    width: 100%px;
+    height: 77px;
+    padding-left: 44px;
+    padding-right: 44px;
+    display: flex;
+}
+.one2-1{
+    width: 420px;
+    height: 55px;
+   margin-top: 12px;
+    font-size: 10px;
+    
+}
+.one2-1-1{
+    width: 80px;
+    height: 55px;
+}
+.one2-2{
+
+    width: 420px;
+    height: 40px;
+    margin: 20px;
+    color: gray;
+    position: relative;
+}
+.one2-3{
+    width: 420px;
+    height: 67px;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+
+}
+.one2-3-1{
+    width: 77px;
+    height: 41px;
+    font-size: 20px;
+    
+}
+.one3{
+    display: flex;
+    justify-content: space-between;
+    width: 100% px;
+    height: 45px;
+    font-size: 15px;
+    font-weight: bold;
+    padding-left: 44px;
+    padding-right: 44px;
+
+}
+.table3{
+   padding-left: 215px;
+   list-style: none;
+   display: flex;
+
+}
+.table3-1{
+    
+    padding: 9px;
+}
+.four{
+    width: 100% px;
+    height: 610px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-bottom: 60px;
+
+    
+}
+.four1{
+position: relative;
+width: 1308px;
+height: 212px;
+color: white;
+padding-top: 205px;
+padding-bottom: 20px;
+font-weight: bold;
+
+}
+.fourimage{
+     position: absolute;
+     width: 1308px;
+     height: 609px;
+}
+.four1-1{
+    display: flex;
+    padding-left: 160px;
+    color: black;
+    
+}
+.four1-1-1{
+    display: flex;
+    width: 200px ;
+    height: 18px;
+    background-color: white;
+    margin-right: 20px;
+    font-weight: bold;
+    font-size: 16px;
+    padding: 15px;
+    justify-content: space-between;
+
+}
+.four1-1-2{
+    display: flex;
+    width: 200px ;
+    height: 18px;
+    background-color: white;
+    margin-right: 20px;
+    font-weight: bold;
+    font-size: 16px;
+    padding: 15px;
+    justify-content: space-between;
+
+}
+.four1-1-3{
+    display: flex;
+    width: 200px ;
+    height: 18px;
+    background-color: white;
+    margin-right: 20px;
+    font-weight: bold;
+    font-size: 16px;
+    padding: 15px;
+    justify-content: space-between;
+
+
+}
+.four1-1-4{
+    display: flex;
+    width: 200px ;
+    height: 18px;
+    background-color: white;
+    margin-right: 20px;
+    font-weight: bold;
+    font-size: 16px;
+    color: black;
+    padding: 15px;
+    justify-content: space-between;
+}
+.five{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 465px;
+    padding-left: 110 px;
+    padding-right: 110 px;
+}
+.five1{
+    width: 556px;
+    height: 465px;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+.five2{
+    width: 556px;
+    height: 465px;
+    padding-left: 8px;
+    padding-right: 8px;
+
+}
+.fiveimage{
+    position: absolute;
+}
+
+.five1-1{
+    padding-left: 185px;
+    padding-top: 150px;
+}
+.five1-1-1{
+  
+    position: relative;
+    color: white;
+    width: 412px;
+    height: 48px;
+    font-size: 40px;
+    font-weight: bold;
+}
+.five1-1-2{
+    display: flex;
+    position: relative;
+    background-color: white;
+    width: 109px;
+    height: 16px;
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: 16px;
+    padding: 16px 10px 16px 10px;
+    color: black;
+    margin-left: 28px;
+    justify-content: space-evenly;
+}
+.five2-1{
+    padding-left: 185px;
+    padding-top: 150px;
+
+}
+.five2-1-1{
+  
+    position: relative;
+    color: white;
+    width: 412px;
+    height: 48px;
+    font-size: 40px;
+    font-weight: bold;
+    margin-left: 25px;
+}
+.five2-1-2{
+    display: flex;
+    position: relative;
+    background-color: white;
+    width: 109px;
+    height: 16px;
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: 16px;
+    padding: 16px 10px 16px 10px;
+    color: black;
+    margin-left: 28px;
+    justify-content: space-evenly;
+}
+.six{
+    display: flex;
+    justify-content: center;
+    width:100%px ;
+    height: 562px;
+    background-color: #f5f5f5;
+    padding: 88px 109px 88px 109px;
+}
+.six1{
+    width: 546px;
+    height: 538px;
+    padding-right: 16px;
+    background-color:white;
+    justify-content: center;
+    text-align: center;
+}
+.six1-1{
+    width: 168px;
+    height: 56px;
+    font-size: 20px;
+    font-weight: bold;
+    padding-left: 32px;
+    padding-right: 32px;
+    padding-bottom: 37px;
+    display: flex;
+    padding-left: 215px;
+}
+.six2{
+    display: flex;
+    width: 564px;
+    height: 538px;
+   
+.six2-1{
+    width: 282px;
+    height: 382px;
+    padding-left: 13px;
+    padding-top: 55px;
+
+}
+.six2-1-1{
+    display: flex;
+    width: 128px;
+    height:21px ;
+    font-size: 16px;
+    font-weight: bold;
+    padding-right: 24px;
+}
+.six2-2{
+    width: 282px;
+    height: 382px;
+    padding-left: 13px;
+    padding-top: 55px;
+}
+}
+.six2-2-1{
+    display: flex;
+    width: 128px;
+    height:21px ;
+    font-size: 16px;
+    font-weight: bold;
+    padding-right: 24px;
+}
+.seven{
+    display: flex;
+    justify-content: center;
+    width: 100%px;
+    height: 251px;
+
+}
+.seven1{
+    text-align: center;
+    width: 455px;
+    height: 251px;
+    font-weight: bold;
+    font-size: 16px;
+    background-color: black;
+    color: white;
+   
+}
+.seven1-1{
+    display: flex;
+    width: 146px;
+    height: 22px;
+    padding: 15px 20px 15px 20px;
+    background-color: white;
+    margin-left: 125px;
+    color: black;
+    justify-content: space-evenly;
+   
+    
+    
+}
+.seven2{
+    width: 455px;
+    height: 251px;
+    font-weight: bold;
+    font-size: 16px;
+    color: black;
+    
+}
+.eight{
+    width: 100% px;
+    height: 34px;
+    margin-bottom: 24px;
+    margin-top: 24PX;
+    font-size: 28PX;
+    text-align: center;
+    font-weight: bold;
+}
+.nene{
+    display: flex;
+    width: 100%px;
+    height: 421px;
+    padding-left: 88px;
+}
+.nene1{
+    width: 285px;
+    height: 425px;
+    padding-left: 8px;
+    padding-right: 8px;
+    font-weight: bold;
+}
+.nene2{
+    width: 285px;
+    height: 425px;
+    padding-left: 8px;
+    padding-right: 8px;
+    font-weight: bold;
+
+}
+.nene3{
+    width: 285px;
+    height: 425px;
+    padding-left: 8px;
+    padding-right: 8px;
+    font-weight: bold;
+
+}
+.nene4{
+    width: 285px;
+    height: 425px;
+    padding-left: 8px;
+    padding-right: 8px;
+    font-weight: bold;
+
+}
+.ten{
+    width: 100%px;
+    height: 497px;
+    background-color: lightyellow;
+    color: black;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    
+}
+.ten1{
+    width: 100%;
+    height: 448px;
+    display: flex;
+    justify-content: center;
+   
+}
+.ten1-1{
+    width: 207px;
+    height: 270px;
+    padding-right: 16px;
+    font-size: 16px;
+    font-weight: bold;
+}
+.ten1-2{
+    width: 207px;
+    height: 270px;
+    padding-right: 16px;
+    font-size: 16px;
+    font-weight: bold;
+}
+.ten1-3{
+    width: 207px;
+    height: 270px;
+    padding-right: 16px;
+    font-size: 16px;
+    font-weight: bold;
+}
+.ten1-4{
+    width: 207px;
+    height: 270px;
+    padding-right: 16px;
+    font-size: 16px;
+    font-weight: bold;
+}
+.eleven{
+    padding-top: 5px;
+    padding-left: 48px;
+    color: grey;
+    width: 100% px;
+    height: 72px;
+    font-size: 17px;
+}
+.twelve{
+    display: flex;
+    justify-content: center;
+    width: 100% px;
+    height: 69px;
+   
+    border-bottom:1px solid gray;
+    border-top: 1px solid gray;
+    
+   
+}
+.twelve1{
+    width: 236px;
+    height: 69px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+
+
+}
+.twelve2{
+    width: 236px;
+    height: 69px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+
+}
+.twelve3{
+    width: 358px;
+    height: 69px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+
+}
+.thirteen{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100% px;
+    height: 90px;
+    background-color: black;
+    color: white;
+}
+.fourteen{
+    display: flex;
+    width: 100% px;
+    height: 245px;
+    padding-top: 30px;
+    padding-left: 50px;
+}
+.fourteen1{
+    width: 190px;
+    height: 200px;
+   
+}
+.fourteen2{
+    width: 210px;
+    height: 200px;
+   
+}
+.fourteen3{
+    width: 210px;
+    height: 200px;
+   
+}
+.fourteen4{
+    width: 210px;
+    height: 200px;
+   
+}
+.fourteen5{
+    width: 210px;
+    height: 200px;
+   
+}
+
+
